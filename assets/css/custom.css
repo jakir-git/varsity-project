@@ -1,0 +1,13 @@
+/* Write your custom CSS here */
+.leave-tab-menu{
+	display: flex;
+}
+.leave-tab-menu li button{
+	margin-right: 10px;
+	padding: 8px 20px;
+	border: 0;
+}
+.leave-tab-menu li button.active{
+	background: #00acc1;
+	color: #fff;
+}
